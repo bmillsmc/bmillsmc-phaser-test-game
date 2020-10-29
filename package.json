@@ -1,0 +1,22 @@
+{
+  "name": "bmillsmc-phaser-test-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmillsmc/bmillsmc-phaser-test-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmillsmc/bmillsmc-phaser-test-game/issues"
+  },
+  "homepage": "https://github.com/bmillsmc/bmillsmc-phaser-test-game#readme",
+  "dependencies": {
+    "phaser": "^3.24.1"
+  }
+}
